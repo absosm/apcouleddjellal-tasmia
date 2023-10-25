@@ -1,0 +1,22 @@
+{
+  "name": "apcouleddjellal-tasmia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absosm/apcouleddjellal-tasmia.git"
+  },
+  "author": "absosm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absosm/apcouleddjellal-tasmia/issues"
+  },
+  "homepage": "https://github.com/absosm/apcouleddjellal-tasmia#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
